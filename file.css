@@ -55,7 +55,7 @@
     position:absolute;
     transform: translate(-50%,-50%);
 }
-.buttonbox:hover{
+.buttonbox{
     background: linear-gradient(#14ffe9,#ffeb3b,#ff00e0);
     animation: buttonbox 1.5s linear infinite;
 }
